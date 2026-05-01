@@ -4,7 +4,8 @@
     "description": "An extension that allows users to store notes about a webpage",
     "version": "1.0.0",
     "permissions":[
-        "sidePanel"
+        "sidePanel",
+        "tabs"
     ],
     "side_panel": {
         "default_path": "index.html"
